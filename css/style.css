@@ -1,7 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-
+@import url("/fonts/Baskerville.ttc");
 /*////////// Global Styles //////////*/
 
 body {
@@ -18,3 +18,11 @@ body {
 }
 
 /* Write all remaining styles here */
+
+.header {
+  color: rgb(215, 220, 219)
+}
+
+h1 {
+  font-family: "Baskerville";
+}
